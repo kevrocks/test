@@ -1,4 +1,4 @@
-let message: string = 22;
+let message: string = 'hello';
 console.log(message);
 
 let age: 20;
